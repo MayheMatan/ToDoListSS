@@ -16,6 +16,14 @@ $(document).on('submit', '#form_done', function (e) {
     return false;
 });
 
-$('#done-btn').click(function () {
-    $('.check').toggle();
-});
+// $('#done-btn').click(function () {
+//     $('.check').toggle();
+// });
+
+
+var list = document.querySelector('ul');
+list.addEventListener('click', function (ev) {
+    if(ev.target.tagName == 'LI') {
+        ev.target.classList.toggle('check');
+    }
+}, false);

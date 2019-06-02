@@ -30,6 +30,8 @@
         border: 1px solid gray;
         padding: 20px 5px 20px 5px;
     }
+
+
 </style>
 <div data-role="content" class="task-list-container">
 <h3>Add a new task:</h3>
