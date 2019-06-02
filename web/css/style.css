@@ -1,0 +1,39 @@
+
+/* -- General styles --*/
+html,
+body {
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+}
+
+body, .ui-body-c ,head {
+    font-family: 'Raleway', sans-serif;
+    color: red;
+}
+
+
+
+
+
+/*--- index.jsp ---*/
+
+
+/** -- login.jsp --*/
+.container-login {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.ui-input-text, .ui-input-search {
+    padding-bottom: 20px;
+}
+/*-- Task-List.jsp --*/
+
+
+/*-- About.jsp --*/
+.about {
+    padding-top: 100px;
+}
+
+/*-- FOOTER SECTION --*/

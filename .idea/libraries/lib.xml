@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/javassist-3.9.0.GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/mysql-connector-java-5.1.13-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/antlr-2.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/slf4j-log4j12-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/jta-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ToDoList-JavaEE/lib/commons-collections-3.1.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/apache-tomcat-9.0.17/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/apache-tomcat-9.0.17/lib" recursive="false" />
+  </library>
+</component>
