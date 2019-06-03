@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ToDoListSS:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="511b6016-f345-4bbd-ad85-ba4a6d801769" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/META-INF/ToDoListSS.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/controller/BaseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/controller/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/controller/Servlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/controller/TaskController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/model/HibernateToDoListDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/model/IToDoListDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/model/RequestParameters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/model/Users.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/classes/todolistDB.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/annotations-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/antlr-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/catalina-ant.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/catalina-ha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/catalina-storeconfig.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/catalina-tribes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/catalina.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/commons-collections-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/ecj-4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/el-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/hibernate3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/jasper-el.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/jasper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/jaspic-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/javassist-3.9.0.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/jta-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.13-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/slf4j-api-1.5.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/slf4j-log4j12-1.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-coyote.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-dbcp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-i18n-cs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-i18n-de.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-i18n-es.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-i18n-fr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-i18n-ja.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-i18n-ko.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-i18n-pt-BR.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-i18n-ru.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-i18n-zh-CN.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-jdbc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-jni.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-util-scan.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/tomcat-websocket.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/lib/websocket-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/about.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/assets/Doit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/assets/Heroback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/assets/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/redirect.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/scripts/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ToDoListSS_war_exploded/tasklist.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoList-JavaEE/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoList-JavaEE/todolistDB.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/META-INF/ToDoListSS.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/controller/BaseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/controller/IndexController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/controller/Servlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/controller/TaskController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/model/HibernateToDoListDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/model/IToDoListDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/model/RequestParameters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/model/Users.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ToDoListSS/todolistDB.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/ToDoListException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/HibernateToDoListDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/HibernateToDoListDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/IToDoListDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/IToDoListDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/RequestParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/RequestParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/TdlTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/ToDoListTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todolistDB.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/todolistDB.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/scripts/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/tasklist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/tasklist.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/tasklist.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-141">
+              <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/scripts/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/redirect.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/register.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/header.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/HibernateToDoListDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="180" column="20" lean-forward="true" selection-start-line="180" selection-start-column="20" selection-end-line="180" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#0#40#1" expanded="true" />
+                <element signature="e#0#52#1" expanded="true" />
+                <element signature="e#0#24#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/TaskController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setst</find>
+      <find>user</find>
+      <find>login</find>
+      <find>tasklist</find>
+      <find>request.getSession</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/model/TdlTask.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/update.jsp" />
+        <option value="$PROJECT_DIR$/web/update.jsp" />
+        <option value="$PROJECT_DIR$/src/model/RquestParameters.java" />
+        <option value="$PROJECT_DIR$/src/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/context.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/register.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/redirect.jsp" />
+        <option value="$PROJECT_DIR$/web/redirect.jsp" />
+        <option value="$PROJECT_DIR$/web/login.jsp" />
+        <option value="$PROJECT_DIR$/web/edit.jsp" />
+        <option value="$PROJECT_DIR$/web/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/model/Users.java" />
+        <option value="$PROJECT_DIR$/src/model/ToDoListTask.java" />
+        <option value="$PROJECT_DIR$/src/model/RequestParameters.java" />
+        <option value="$PROJECT_DIR$/src/model/ToDoListException.java" />
+        <option value="$PROJECT_DIR$/src/model/IToDoListDAO.java" />
+        <option value="$PROJECT_DIR$/src/model/HibernateToDoListDAO.java" />
+        <option value="$PROJECT_DIR$/src/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/controller/Servlet.java" />
+        <option value="$PROJECT_DIR$/web/about.jsp" />
+        <option value="$PROJECT_DIR$/web/header.jsp" />
+        <option value="$PROJECT_DIR$/src/controller/TaskController.java" />
+        <option value="$PROJECT_DIR$/web/tasklist.jsp" />
+        <option value="$PROJECT_DIR$/src/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/web/scripts/scripts.js" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="958" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ToDoListSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoListSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToDoListSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoListSS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToDoListSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoListSS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToDoListSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoListSS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToDoListSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoListSS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToDoListSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoListSS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToDoListSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoListSS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToDoListSS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoListSS" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0952381" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.17">
+    <configuration name="HibernateToDoListDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.HibernateToDoListDAO" />
+      <module name="ToDoListSS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.17" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.17" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ToDoListSS_war_exploded/Servlet/index" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ToDoListSS:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ToDoListSS_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_17_ToDoListSS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51762" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ToDoListSS:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.17" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_ToDoListSS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51762" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HibernateToDoListDAO" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.17" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HibernateToDoListDAO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="511b6016-f345-4bbd-ad85-ba4a6d801769" name="Default Changelist" comment="" />
+      <created>1558978217425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558978217425</updated>
+      <workItem from="1558978219951" duration="14420000" />
+      <workItem from="1559132096198" duration="1976000" />
+      <workItem from="1559135944184" duration="37352000" />
+    </task>
+    <task id="LOCAL-00001" summary="first init">
+      <created>1559485012619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559485012619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53748000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="958" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Persistence" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290993" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.37297922" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290993" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.37297922" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290993" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3290993" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4977169" weight="0.24969475" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.4977169" weight="0.32967034" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" sideWeight="0.50306123" side_tool="true" visible="true" weight="0.16666667" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" sideWeight="0.49693877" weight="0.16666667" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Persistence" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37297922" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32959184" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4977169" weight="0.24969475" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.4977169" weight="0.32967034" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" sideWeight="0.50306123" side_tool="true" visible="true" weight="0.16666667" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" sideWeight="0.49693877" weight="0.16666667" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first init" />
+    <option name="LAST_COMMIT_MESSAGE" value="first init" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ToDoListSS$Tomcat_9_0_17.ic" NAME="Tomcat 9.0.17 Coverage Results" MODIFIED="1558982537124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/update.jsp" />
+    <entry file="file://$PROJECT_DIR$/ToDoListSS.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="1780" column="18" selection-start-line="1780" selection-start-column="18" selection-end-line="1780" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/apache-tomcat-9.0.17/lib/servlet-api.jar!/javax/servlet/ServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/todolistDB.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ToDoListException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-end-line="4" />
+          <folding>
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/RequestParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ToDoListTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1277#1278#0" expanded="true" />
+            <element signature="e#1319#1320#0" expanded="true" />
+            <element signature="e#1357#1358#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/IToDoListDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/about.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="83" column="8" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+          <folding>
+            <element signature="e#1515#1522#0#HTML" expanded="true" />
+            <element signature="e#1792#1799#0#HTML" expanded="true" />
+            <element signature="e#2044#2051#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/HibernateToDoListDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="180" column="20" lean-forward="true" selection-start-line="180" selection-start-column="20" selection-end-line="180" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#40#1" expanded="true" />
+            <element signature="e#0#52#1" expanded="true" />
+            <element signature="e#0#24#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="64" column="13" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/redirect.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/TaskController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/tasklist.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ToDoListSS:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.0952381" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45441177" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45441177" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45441177" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ToDoList-JavaEE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45441177" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45441177" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
